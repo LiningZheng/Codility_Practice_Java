@@ -48,6 +48,5 @@ class Solution {
 basic idea: find the global leader first. then check each candidate to see if they make a equileader.
 
 because the equileader has to be the global leader: the equileader occurs more than half of times on both sides.
-Also, there can't be an equileader that is not the global leader.
 
-global and equi: Necessary and sufficient conditions to each other
+(being the global leader is the necessary condition for being an equileader.)
